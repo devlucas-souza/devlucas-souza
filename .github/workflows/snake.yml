@@ -26,3 +26,4 @@ jobs:
           author_email: snake@github.com
           message: "atualizando snake 🐍"
           add: "output/github-contribution-grid-snake.svg"
+          branch: main   # garante que faça commit no branch main
