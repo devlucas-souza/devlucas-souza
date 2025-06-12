@@ -41,10 +41,3 @@ Olá! Me chamo Lucas Souza, sou formado em Análise e Desenvolvimento de Sistema
 
 </p>
 
----
-## 🐍 Snake vs commits
-
-![Snake animation](https://github.com/devlucas-souza/devlucas-souza/raw/main/output/github-contribution-grid-snake.svg)
-
-
-
