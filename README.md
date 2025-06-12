@@ -1,4 +1,4 @@
-# # 👨‍💻 Lucas Souza
+# # 👨🏽‍💻 Lucas Souza
 
 **`Desenvolvedor Front End`**
 
